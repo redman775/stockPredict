@@ -1,0 +1,8 @@
+https://marketdata.websol.barchart.com/getHistory.xml?apikey=YOUR_API_KEY&symbol=IBM&type=daily&startDate=20160608000000
+https://marketdata.websol.barchart.com/getHistory.json?apikey=YOUR_API_KEY&symbol=IBM&type=daily&startDate=20160608000000
+https://marketdata.websol.barchart.com/getHistory.csv?apikey=YOUR_API_KEY&symbol=IBM&type=daily&startDate=20160608000000 
+
+https://marketdata.websol.barchart.com/getHistory.csv?apikey=c8ed694ae878340b952478d10f2230b2&symbol=AMZN&type=daily&startDate=20180401000000
+
+signup:
+https://www.barchart.com/ondemand/free-market-data-api
